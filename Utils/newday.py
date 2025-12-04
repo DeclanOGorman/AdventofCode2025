@@ -1,7 +1,7 @@
 import shutil
 import os
 
-day = 3
+day = 4
 
 # Create new directory
 os.mkdir(f'./{day}')
